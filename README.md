@@ -4,7 +4,7 @@
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/grip-joy-con-double/)
-- [Makers Making Change Forum Thread](<Add link>)
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/grip-joy-con-double/)
 
 
 ## How to Obtain a Grip for Joy-Cons - Double 
