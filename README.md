@@ -25,7 +25,7 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
-[The Makers Checklist] 
+[The Makers Checklist](/Documentation/Grip_Joy_Con_Double_Maker_Checklist_V1.0.pdf) 
 
 ### 2. Order the Off-The-Shelf Components
 
@@ -34,7 +34,7 @@ The [Bill of Materials](/Documentation/Grip_Joy_Con_Double_BOM_V1.0.xlsx) lists 
 
 ### 3. Print the 3D Printable components
 
-Print the components ...
+Print the components 
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
