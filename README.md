@@ -54,20 +54,18 @@ Reference the [Assembly Guide](/Documentation/Grip_Joy_Con_Double_Assembly_Guide
 | User Guide           | 1.0     | [Grip_Joy_Con_Double_User_Guide](/Documentation/Grip_Joy_Con_Double_User_Guide_V1.0.pdf)    |
 | Changelog            | 1.0     | [Grip_Joy_Con_Double_Changelog](/Documentation/Grip_Joy_Con_Double_Changelog_V1.0.pdf)     |
 
-### Design Files
-[CAD Files](/Design_Files)
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
 Designers:
- - [manabun](https://www.thingiverse.com/manabun/designs) on Thingiverse.com
+ - [manabun](https://www.thingiverse.com/manabun/designs) on [Thingiverse.com](https://www.thingiverse.com/thing:2523187)
 
 
 
 ## License
-Everything needed or used to design, make, test, or prepare the Grip for Double Joy-Cons is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Everything needed or used to design, make, test, or prepare the Grip for Double Joy-Cons is licensed under the [Creative Commons - Attribution - Non-Commercial - Share Alike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Grip for Double Joy-Cons are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
