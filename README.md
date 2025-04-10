@@ -4,7 +4,6 @@
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/grip-joy-con-double/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/grip-joy-con-double/)
 
 
 ## How to Obtain a Grip for Joy-Cons - Double 
@@ -62,16 +61,13 @@ Reference the [Assembly Guide](/Documentation/Grip_Joy_Con_Double_Assembly_Guide
 Designers:
  - [manabun](https://www.thingiverse.com/manabun/designs) on [Thingiverse.com](https://www.thingiverse.com/thing:2523187)
 
-
-
 ## License
 Everything needed or used to design, make, test, or prepare the Grip for Double Joy-Cons is licensed under the [Creative Commons - Attribution - Non-Commercial - Share Alike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Grip for Double Joy-Cons are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
-
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -89,3 +85,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
